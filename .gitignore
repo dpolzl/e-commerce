@@ -1,8 +1,8 @@
 #android
-/android/build
-/android/app/build
-/android/.gradle
-/android/app/app.iml
-/android/settings.gradle
-/android/local.properties
-/android/iunigoplatformapp.iml
+/Iguanafix/build
+/Iguanafix/app/build
+/Iguanafix/.gradle
+/Iguanafix/app/app.iml
+/Iguanafix/settings.gradle
+/Iguanafix/local.properties
+/Iguanafix/iunigoplatformapp.iml

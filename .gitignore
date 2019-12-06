@@ -1,0 +1,8 @@
+#android
+/android/build
+/android/app/build
+/android/.gradle
+/android/app/app.iml
+/android/settings.gradle
+/android/local.properties
+/android/iunigoplatformapp.iml

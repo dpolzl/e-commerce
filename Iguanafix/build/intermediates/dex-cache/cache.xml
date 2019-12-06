@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9be8ad4ad61187cdc5d96952ad188b75b8811314">
+        <dex dex="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_6bff53fa734c6a66ab24a303e50d9feb6a906826.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_602614e5220c9a1b879f6484b2d1048171f9419a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_321b5a3f491e538486f259e95021dbc81eb2f086.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_6a395c848582a7148b8c6368f12a507c3b676ece.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_2e98ad256078a2e859aa8aaff04a8454ed3958da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_a0754573ba68b42c629ee881eca7406058ba8d2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_707957e1c8267787feb7c6a6418d4946a56dbf97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_c4306110759911808f0c5ab99b30a919df8647c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_642141f8e45d8610ea55bf2db25835174ff310ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_6cb744fba4d435e0439949fa23a3742ae2d2f1c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_84219a5b8d2702dda360be5da363b71dc13cf672.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_9766413fa3821280d590ee693d73f9550d1689b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_36c8bd908dc34683fcc3f0d5ff71520633185aa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0accca9c8772d431166d5f0f686ed2a986d8a14d">
+        <dex dex="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/pre-dexed/debug/instant-run_83489f204ac9763782cc9382dd79608a07289d9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitry/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.0/support-annotations-24.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.0_9a4f8c2b6604bc2cde45831c5a2169179d1bdadf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitry/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.5.2/ecf534dba3a8446ce84cbb797d314763be212a68/glide-3.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/pre-dexed/debug/glide-3.5.2_a07bafeb4c085ea3b6935523a99ef2a358f917a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_321b5a3f491e538486f259e95021dbc81eb2f086.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_afefbe96b38195809028df5a954580493443125c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_b6c91f6146bc873ed8939e679dd921b7d7a31da3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_016abae084ed52abd12d79d2ea69af9ee93e1f52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_6cb744fba4d435e0439949fa23a3742ae2d2f1c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_f9ebebd625c620e11bef48a6dfc90b7c24b22b6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_642141f8e45d8610ea55bf2db25835174ff310ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_2e98ad256078a2e859aa8aaff04a8454ed3958da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_707957e1c8267787feb7c6a6418d4946a56dbf97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_a0754573ba68b42c629ee881eca7406058ba8d2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_6a395c848582a7148b8c6368f12a507c3b676ece.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_84219a5b8d2702dda360be5da363b71dc13cf672.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_c4306110759911808f0c5ab99b30a919df8647c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_9766413fa3821280d590ee693d73f9550d1689b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitry/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.5.2/ecf534dba3a8446ce84cbb797d314763be212a68/glide-3.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/pre-dexed/debug/glide-3.5.2_a07bafeb4c085ea3b6935523a99ef2a358f917a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitry/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.0/support-annotations-24.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.0_9a4f8c2b6604bc2cde45831c5a2169179d1bdadf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_36c8bd908dc34683fcc3f0d5ff71520633185aa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_afefbe96b38195809028df5a954580493443125c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_b6c91f6146bc873ed8939e679dd921b7d7a31da3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_602614e5220c9a1b879f6484b2d1048171f9419a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_016abae084ed52abd12d79d2ea69af9ee93e1f52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/dmitry/Escritorio/iguanafix/Iguanafix/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_f9ebebd625c620e11bef48a6dfc90b7c24b22b6d.jar" />
+    </item>
+
+</items>
